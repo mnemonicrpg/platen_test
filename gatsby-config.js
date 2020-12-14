@@ -2,9 +2,9 @@ const { typeNameFromFile } = require("gatsby-transformer-csv")
 
 module.exports = {
   siteMetadata: {
-    title: `Template`,
-    description: `Short site description`,
-    author: `@YourName`,
+    title: `Mnemonic`,
+    description: `Lots of planets have a Mnemonic`,
+    author: `@Dee`,
   },
   plugins: [
     `gatsby-plugin-smoothscroll`,
